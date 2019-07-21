@@ -6,9 +6,3 @@ master changes
 
 //master changes
 
-rebase changes
-
-
-some changes in master
-rebase changes
-chnaes
